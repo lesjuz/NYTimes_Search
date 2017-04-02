@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">NYTimes</string>
+    <string name="action_settings">Settings</string>
+    <string name="thumbnail">Thumbnail</string>
+    <string name="filter">Filter</string>
+    <string name="save">Save</string>
+    <string name="begin_date">Begin Date</string>
+    <string name="sort_order">Sort by Order</string>
+    <string name="news_desk_values">News desk values</string>
+    <string name="arts">Arts</string>
+    <string name="fashion_and_style"><![CDATA[Fashion & Style]]></string>
+    <string name="sports">Sports</string>
+    <string name="cancel">Cancel</string>
+    <string name="search">Search</string>
+    <string-array name="order_array">
+        <item>Oldest</item>
+        <item>Newest</item>
+    </string-array>
+</resources>
